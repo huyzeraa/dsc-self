@@ -1,4 +1,4 @@
-# By huyzeraa - Vxrn Team -- All rights reserved
+# By huyzeraa • Vxrn Team • All rights reserved
 
 import sys
 import subprocess
